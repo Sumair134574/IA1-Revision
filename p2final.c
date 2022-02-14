@@ -1,5 +1,5 @@
 #include<stdio.h>
-void input(int *a,int *b,int *c)
+int input(int *a,int *b,int *c)
 {
   printf("enter the first number:");
   scanf("%d",a);
